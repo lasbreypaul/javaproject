@@ -6,6 +6,8 @@ public class Man{
     string dateofbirth;
     string placeofbirth;
     string stateoforigin;
+    string email;
+
 
 
     public void setName(string name){
